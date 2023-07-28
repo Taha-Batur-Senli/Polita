@@ -5,8 +5,8 @@
     <turnNumber>0</turnNumber>
   </File1>
   <File2>
-    <isBeingUsed>False</isBeingUsed>
-    <playing>False</playing>
+    <isBeingUsed>True</isBeingUsed>
+    <playing>True</playing>
     <turnNumber>0</turnNumber>
   </File2>
   <File3>

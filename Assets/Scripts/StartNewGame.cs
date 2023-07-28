@@ -78,7 +78,6 @@ public class StartNewGame : MonoBehaviour
             {
                 timer = 0;
                 buttonPressed = false;
-                startFade.SetActive(false);
                 SceneManager.LoadScene("Gameplay Scene");
             }
         }
