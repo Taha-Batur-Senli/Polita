@@ -1,12 +1,12 @@
 <Files>
   <File1>
-    <isBeingUsed>True</isBeingUsed>
-    <playing>True</playing>
+    <isBeingUsed>False</isBeingUsed>
+    <playing>False</playing>
     <turnNumber>0</turnNumber>
   </File1>
   <File2>
-    <isBeingUsed>True</isBeingUsed>
-    <playing>True</playing>
+    <isBeingUsed>False</isBeingUsed>
+    <playing>False</playing>
     <turnNumber>0</turnNumber>
   </File2>
   <File3>
