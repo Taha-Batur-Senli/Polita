@@ -25,6 +25,9 @@
     <muteSound>
 		Oyun Sesleri
 	</muteSound>
+    <startQuote>
+		"Tarih yazmak, tarih yapmak kadar mühimdir. Yazan yapana sadık kalmazsa değişmeyen hakikat, insanlığı şaşırtacak bir mahiyet alır."
+	</startQuote>
   </Turkish>
   <English>
     <isBeingUsed>True</isBeingUsed>
@@ -49,8 +52,8 @@
     <muteMusic>
 		Music
 	</muteMusic>
-    <muteSound>
-		Game Sounds
-	</muteSound>
+    <startQuote>
+		""
+	</startQuote>
   </English>
 </Language>
