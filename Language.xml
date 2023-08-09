@@ -52,8 +52,11 @@
     <muteMusic>
 		Music
 	</muteMusic>
+    <muteSound>
+		Game Sounds
+	</muteSound>
     <startQuote>
-		""
+		"Writing history is as important as making it. If the author does not remain faithful to the creator, the unchanging truth takes on a nature that will surprise humanity."
 	</startQuote>
   </English>
 </Language>

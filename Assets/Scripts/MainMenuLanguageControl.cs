@@ -26,7 +26,7 @@ public class MainMenuLanguageControl : MonoBehaviour
         {
             langText = "Turkish";
             dropChoices.value = 1;
-            dropChoices.options[0].text = "İngilizce";
+            dropChoices.options[0].text = "Ingilizce";
             dropChoices.options[1].text = "Türkçe";
         }
         else if (mydoc.SelectSingleNode("Language/English/isBeingUsed").InnerText.Trim().Equals("True"))
