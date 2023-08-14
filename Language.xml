@@ -25,6 +25,27 @@
     <muteSound>
 		Oyun Sesleri
 	</muteSound>
+    <warning>
+		Uyarı!
+	</warning>
+    <overwrite>
+		Bu kayıt dosyası zaten kullanılıyor! Üzerine yazarak yeni bir oyuna başlamak istiyor musunuz?
+	</overwrite>
+    <delete>
+		Bu işlem kaydınızı silecek! Emin misiniz?
+	</delete>
+    <yes>
+		Evet
+	</yes>
+    <no>
+		Hayır
+	</no>
+    <back>
+		Geri Dön
+	</back>
+    <saveName>
+		Kayıt
+	</saveName>
     <startQuote>
 		"Tarih yazmak, tarih yapmak kadar mühimdir. Yazan yapana sadık kalmazsa değişmeyen hakikat, insanlığı şaşırtacak bir mahiyet alır."
 	</startQuote>
@@ -55,6 +76,27 @@
     <muteSound>
 		Game Sounds
 	</muteSound>
+    <warning>
+		Warning!
+	</warning>
+    <overwrite>
+		The save file you want to use for the new game is already in use! Do you wish to overwrite?
+	</overwrite>
+    <delete>
+		This will delete the Save file! Are you sure?
+	</delete>
+    <yes>
+		Yes
+	</yes>
+    <no>
+		No
+	</no>
+    <back>
+		Go Back
+	</back>
+    <saveName>
+		Save
+	</saveName>
     <startQuote>
 		"Writing history is as important as making it. If the author does not remain faithful to the creator, the unchanging truth takes on a nature that will surprise humanity."
 	</startQuote>
