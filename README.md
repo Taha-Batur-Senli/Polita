@@ -1,5 +1,5 @@
 # Polita
- Polita is a political simulator game set in the Basque region of Spain, 1933, on the onset of the turbulent and bloody Civil War that will reshape the country's history and future. The players assume the role of a University Rector and navigate through an intense political climate, where each action they take will have consequences, both for them and their country. 
+ Polita is a political simulator game set in the Basque region of Spain, 1933, on the onset of the turbulent and bloody Civil War that will reshape the country's history and future. The players assume the role of a University Rector and navigate through an intense political climate. However, the actions they take in the process may have long-lasting consequences, both for them and Spain. 
  
  This Readme file will serve as a log to detail important developments in the project and briefly explain documents published alongisde the code.
 
