@@ -8,3 +8,5 @@
 22 July 2023: Creative direction decided. Main Menu started.
 
 28 July 2023: Core functions of the main menu added. Main Menu popups started.
+
+14 August 2023: Main Menu's language support and popups completed. Work on the gameplay scenes and language support for the codex started.
